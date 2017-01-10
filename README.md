@@ -1,2 +1,2 @@
 # hello-world
-New Beginning
+New Beginning - Just trying to get a grasp on this shizzle before bootcamp
